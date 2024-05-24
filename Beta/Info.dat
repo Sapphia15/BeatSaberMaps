@@ -37,7 +37,14 @@
           "_noteJumpMovementSpeed" : 16,
           "_noteJumpStartBeatOffset" : 0,
           "_beatmapColorSchemeIdx" : 0,
-          "_environmentNameIdx" : 0
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_colorLeft" : {"r":1,"g":0.724,"b":0.982},
+            "_colorRight" : {"r":0.165,"g":0.99,"b":0.889},
+            "_envColorLeft" : {"r":1,"g":0.724,"b":0.982},
+            "_envColorRight" : {"r":0.165,"g":0.99,"b":0.889},
+            "_obstacleColor" : {"r":1,"g":0.724,"b":0.982}
+          }
         }
       ]
     }
